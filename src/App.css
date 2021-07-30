@@ -1,0 +1,46 @@
+body{
+  background-color:aliceblue;
+  margin: 0;
+  padding: 0;
+
+}
+/* .main{
+ 
+} */
+.cerd{
+  background-image: url( "https://cdn.thepassage.cc/1110x625/filters:format(webp):quality(90)/public/image/2019/05/03/flipkart.jpg ");
+  background-size: 500px;
+}
+.text{
+  font-size: medium;
+}
+
+.first{
+  display: flex;
+  background-color:lightgray;
+  justify-content:space-around;
+
+}
+.Home,.About,.cont{
+ 
+  background-color: rgb(255, 220, 233);
+  
+}
+.color{
+  background-color: black;
+}
+.flip{
+  background-color: yellow;
+  width:500px;
+  height:40vh;
+  text-align: center;
+}
+.log{
+  width:280px;
+  text-align: center;
+}
+.d{
+  justify-content: space-around;
+  margin-top: 50px;
+
+}
